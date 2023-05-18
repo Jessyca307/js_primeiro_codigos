@@ -1,0 +1,21 @@
+.grid-one{
+    height: 60vh;
+    align-items: center;
+    
+
+}
+
+.grid{
+    top: 5rem;
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    background: #fff;
+    margin-left: 3rem;
+    
+
+}
+
+.grid h3{
+    font-size: 1.5rem;
+    
+}
